@@ -1,0 +1,6 @@
+# element_locator文件夹存放所有对象类的元素定位
+# 在页面元素所属的文件baidu.yaml中，仅包含页面元素的定位符。当页面元素定位发生改变时，更改此文件即可。
+
+KEY_WORLD_LOCATOR: kw
+SEARCH_BUTTON_LOCATOR: su
+FIRST_RESULT_LOCATOR: //*[@id="1"]/div/div[1]/h3/a

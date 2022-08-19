@@ -1,0 +1,6 @@
+2022-08-11 21:45:47,021- main -DEBUG -56570  - 4298147200 -MainThread -日志开始
+2022-08-11 21:45:47,022- main -DEBUG -56570  - 4298147200 -MainThread -运行线程数为8
+2022-08-11 21:45:47,027- main -DEBUG -56570  - 6371848192 -Thread-12 (worker) -类 -BaiduTest的方法test_baidu_search- 开始运行
+2022-08-11 21:46:09,742- main -DEBUG -56570  - 6371848192 -Thread-12 (worker) -类 -BaiduTest的方法test_baidu_search- 结束运行
+2022-08-11 21:46:09,760- main -INFO -56570  - 4298147200 -MainThread -本次总运行时间 22.805572748184204 s
+2022-08-11 21:46:09,760- main -DEBUG -56570  - 4298147200 -MainThread -日志结束
